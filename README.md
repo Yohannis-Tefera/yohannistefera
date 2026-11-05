@@ -3,7 +3,9 @@
 <p align="center">
   <img src="profile-banner.png" width="100%" alt="Yohannis Tefera - Salesforce, Data Analytics and AI" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VISITORS&color=0A8FDC&style=for-the-badge" alt="Profile visitors" />
+</p>
 <h1 align="center">Hi, I'm Yohannis Tefera 👋</h1>
 
 <h3 align="center">
