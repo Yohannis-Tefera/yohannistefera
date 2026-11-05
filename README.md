@@ -31,7 +31,7 @@ I'm passionate about using technology, automation, and data to solve real-world 
 
 ### 🤝 Let's Connect
 - LinkedIn: https://www.linkedin.com/yohannis-tefera
-- GitHub: My GitHub Profile
+- GitHub: https://github.com/yohannis-Tefera
   
 ---
 ⭐ *Always learning, building, and sharing knowledge.*
