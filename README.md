@@ -5,11 +5,11 @@
 I'm passionate about using technology, automation, and data to solve real-world business problems and improve organizational efficiency.
 
 ### 🚀 About Me
- 💼 Salesforce Administrator and Data Analytics professional.
- 📊 Skilled in SQL, Python, Excel, and Power BI.
- ☁️ Interested in Salesforce Administration, Agentforce, and AI.
- 📚 Continuous learner with a strong interest in technology and innovation.
- 🌍 Founder and Leader of Salesforce User Group Bahir Dar, Ethiopia.
+- 💼 Salesforce Administrator and Data Analytics professional.
+- 📊 Skilled in SQL, Python, Excel, and Power BI.
+- ☁️ Interested in Salesforce Administration, Agentforce, and AI.
+- 📚 Continuous learner with a strong interest in technology and innovation.
+- 🌍 Founder and Leader of Salesforce User Group Bahir Dar, Ethiopia.
 
 ### 🛠️ Technical Skills
 - **Salesforce:** Salesforce Administration, Flows, Reports & Dashboards, Agentforce
@@ -18,9 +18,9 @@ I'm passionate about using technology, automation, and data to solve real-world 
 - **Tools:** Git, GitHub, PostgreSQL
 
 ### 📂 Featured Projects
- **Salesforce Real Estate CRM:** A Salesforce solution for managing property opportunities, site visits, and customer feedback.
- **Data Analytics Projects:** Practical projects using Python, SQL, and Power BI.
- **Business Process Automation:** Salesforce automation solutions and workflow improvements.
+- **Salesforce Real Estate CRM:** A Salesforce solution for managing property opportunities, site visits, and customer feedback.
+- **Data Analytics Projects:** Practical projects using Python, SQL, and Power BI.
+- **Business Process Automation:** Salesforce automation solutions and workflow improvements.
 
 ### 🏆 Certifications & Achievements
 - Salesforce Certified Platform Administrator
@@ -31,7 +31,7 @@ I'm passionate about using technology, automation, and data to solve real-world 
 
 ### 🤝 Let's Connect
 - LinkedIn: https://www.linkedin.com/yohannis-tefera
-- GitHub: [My GitHub Profile](https://github.com/)
-
+- GitHub: My GitHub Profile
+  
 ---
 ⭐ *Always learning, building, and sharing knowledge.*
