@@ -9,12 +9,6 @@
     alt="Profile visitors"
   />
 </p>
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Yohannis-Tefera&label=Visitors&color=0A8FDC&style=flat-square"
-    alt="Profile visitors"
-  />
-</p>
 <h1 align="center">Hi, I'm Yohannis Tefera 👋</h1>
 
 <h3 align="center">
