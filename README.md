@@ -2,8 +2,12 @@
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="profile-banner.png" width="100%" alt="Yohannis Tefera - Salesforce, Data Analytics and AI" />
+</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yohannis-Tefera&label=PROFILE+VIEWS&color=007EC6&style=for-the-badge" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Yohannis-Tefera&label=PROFILE%20VISITORS&color=007EC6&style=for-the-badge"
+    alt="Profile visitors"
+  />
 </p>
 <h1 align="center">Hi, I'm Yohannis Tefera 👋</h1>
 
