@@ -16,8 +16,8 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">https://www.linkedin.com/in/yohannis-Tefera</a> •
-  <a href="YOUR_GITHUB_URL">https://www.github.com/Yohannis-Tefera</a> •
+  <a href="https://www.linkedin.com/in/yohannis-Tefera"></a> •
+  <a href="https://www.github.com/Yohannis-Tefera"></a> •
   <a href="YOUR_EMAIL">Email: yohannistefera27@gmail.com</a>
 </p>
 
