@@ -98,7 +98,7 @@ Exploring Salesforce automation, Flow Builder, Agentforce, and practical busines
 I'm interested in collaborating on Salesforce, data analytics, automation, and AI projects.
 
 <p align="center">
-  <a href="www.linkedin.com/in/yohannis-tefera">
+  <a href="https://www.linkedin.com/in/yohannis-tefera">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="(https://github.com/Yohannis-Tefera)">
