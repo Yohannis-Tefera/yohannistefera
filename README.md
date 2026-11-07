@@ -100,7 +100,7 @@ Exploring Salesforce automation, Flow Builder, Agentforce, and practical busines
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence and Applied AI Fundamentals
+- Graduate Certificate in Applied AI Fundamentals
 - Salesforce Agentforce
 - Advanced SQL and Python
 - Data Visualization and Business Intelligence
