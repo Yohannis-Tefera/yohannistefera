@@ -16,8 +16,8 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">www.linkedin.com/in/yohannis-Tefera</a> •
-  <a href="YOUR_GITHUB_URL">https://github.com/Yohannis-Tefera</a> •
+  <a href="YOUR_LINKEDIN_URL">https://www.linkedin.com/in/yohannis-Tefera</a> •
+  <a href="YOUR_GITHUB_URL">https://www.github.com/Yohannis-Tefera</a> •
   <a href="YOUR_EMAIL">Email: yohannistefera27@gmail.com</a>
 </p>
 
@@ -101,7 +101,7 @@ I'm interested in collaborating on Salesforce, data analytics, automation, and A
   <a href="https://www.linkedin.com/in/yohannis-tefera">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="(https://github.com/Yohannis-Tefera)">
+  <a href="(https://www.github.com/Yohannis-Tefera)">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
