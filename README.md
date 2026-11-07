@@ -18,7 +18,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yohannis-tefera">LinkedIn</a> •
   <a href="https://www.github.com/Yohannis-Tefera">GitHub</a> •
-  <a href="yohannistefera27@gmail.com">Email</a>
+  <a href="mailto:yohannistefera27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
