@@ -16,13 +16,13 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/yohannis-tefera">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://www.github.com/Yohannis-Tefera">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:yohannistefera27@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
