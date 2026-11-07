@@ -86,7 +86,6 @@ Exploring Salesforce automation, Flow Builder, Agentforce, and practical busines
 - **MSc in Project Planning and Management**
 - **BSc in Water Resources and Irrigation Engineering**
 
-
 ## 📈 GitHub Statistics
 
 <p align="center">
