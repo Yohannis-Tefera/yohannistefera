@@ -81,6 +81,12 @@ Exploring Salesforce automation, Flow Builder, Agentforce, and practical busines
 - Agentblazer Innovator
 - Trailhead Ranger
 
+## 🎓 Education
+
+- **MSc in Project Planning and Management**
+- **BSc in Water Resources and Irrigation Engineering**
+
+
 ## 📈 GitHub Statistics
 
 <p align="center">
