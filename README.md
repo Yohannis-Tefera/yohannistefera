@@ -31,7 +31,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a technology and project management professional passionate about using Salesforce, data analytics, and automation to solve real-world business problems.
+I help organizations work smarter and improve operational efficiency through Salesforce, data analytics, and project management.
+In a real estate CRM project, I helped address the challenge of managing property opportunities, site visits, and customer feedback. As the Project Manager, I coordinated a six-person cross-functional team to develop a Salesforce solution connecting these processes and providing better visibility through dashboards.
+I enjoy turning business challenges into practical technology solutions. My goal is to help organizations make informed decisions, streamline operations, and achieve better results without unnecessary complexity or inefficient manual processes.
 
 - ☁️ Salesforce Administrator with experience in CRM configuration and automation.
 - 📊 Data analytics skills in SQL, Python, Excel, and Power BI.
